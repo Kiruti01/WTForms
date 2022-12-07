@@ -1,0 +1,3 @@
+# paste in terminal
+
+pip install Flask-WTF
